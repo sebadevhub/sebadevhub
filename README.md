@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Sebastián
 
-<!--
-**sebadevhub/sebadevhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer from Chile 🇨🇱
 
-Here are some ideas to get you started:
+I enjoy building web applications, learning new technologies and creating software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+Python
+Django
+JavaScript
+HTML5
+CSS3
+SQL
+Git & GitHub
+AWS Cloud
+☁️ AWS
+
+🏅 AWS Academy Graduate
+
+https://www.credly.com/badges/a9955afd-0332-4ea9-ae38-1553e9569c51
+
+🎵 About me
+💻 Passionate about software development
+☁️ Interested in Cloud Computing
+🎧 Music lover
+📚 Always learning something new
